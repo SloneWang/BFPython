@@ -1,6 +1,6 @@
 BrainFuck Interpreter
     Author:  Slone Wang
-    Version: 1.0 - 2020/10/24
+    Version: 1.1 - 2020/10/26
     Copyright © 2020 Slone Wang. All Rights Reserved.
 
     On Windows10, it is suggested to use Windows Terminal with PowerShell Core to run Python.
@@ -16,3 +16,7 @@ BrainFuck Interpreter
     Let's Fuck the Brain!
 
 (There is an example to print "Hello World" on screen. Run "python BFPython.py helloworld.bf" to have a try.)
+
+Change Log:
+    V1.0 - 2020/10/24   Complete.
+    V1.1 - 2020/10/26   Bugs Fix.
