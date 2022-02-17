@@ -14,7 +14,6 @@ BrainFuck Interpreter
     Version: 1.1 - 2020/10/26
     Copyright © 2020 Slone Wang. All Rights Reserved.
 
-    On Windows10, it is suggested to use Windows Terminal with PowerShell Core to run Python.
     Usage: python BFPython.py [xxx.bf] [--help/-h]
 
     To show this help: python BFPython.py --help or -h
